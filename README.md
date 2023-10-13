@@ -1,2 +1,1 @@
-# blogPessoalExperimental
-Blog feito com fins academicos
+# BlogPessoal-Responsive
